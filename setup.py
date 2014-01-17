@@ -12,7 +12,7 @@ setup(
     'requests'
   ],
   url='https://github.com/willandskill/arbetsformedlingen',
-  download_url='https://github.com/willandskill/arbetsformedlingen/archive/v0.0.1',
+  download_url='https://github.com/willandskill/arbetsformedlingen/archive/v0.0.2.tar.gz',
   license='BSD licence',
   description='Wrapper for http://api.arbetsformedlingen.se/',
 )
